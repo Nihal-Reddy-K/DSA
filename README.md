@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Nihal-Reddy-K/DSA/tree/master/0051-n-queens) |
 | [0896-monotonic-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0896-monotonic-array) |
 | [1861-rotating-the-box](https://github.com/Nihal-Reddy-K/DSA/tree/master/1861-rotating-the-box) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Nihal-Reddy-K/DSA/tree/master/0037-sudoku-solver) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Matrix
 |  |
 | ------- |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+## Counting
+|  |
+| ------- |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 <!---LeetCode Topics End-->
