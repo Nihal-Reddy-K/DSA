@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Nihal-Reddy-K/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Nihal-Reddy-K/DSA/tree/master/0051-n-queens) |
+| [0896-monotonic-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0896-monotonic-array) |
 | [1861-rotating-the-box](https://github.com/Nihal-Reddy-K/DSA/tree/master/1861-rotating-the-box) |
 ## Backtracking
 |  |
