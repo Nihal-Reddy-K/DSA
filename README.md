@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0896-monotonic-array) |
 | [1861-rotating-the-box](https://github.com/Nihal-Reddy-K/DSA/tree/master/1861-rotating-the-box) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Nihal-Reddy-K/DSA/tree/master/0037-sudoku-solver) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -60,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 <!---LeetCode Topics End-->
