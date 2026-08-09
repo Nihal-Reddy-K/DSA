@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nihal-Reddy-K/DSA/tree/master/0011-container-with-most-water) |
 | [0344-reverse-string](https://github.com/Nihal-Reddy-K/DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Nihal-Reddy-K/DSA/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/Nihal-Reddy-K/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Nihal-Reddy-K/DSA/tree/master/0051-n-queens) |
 ## Backtracking
@@ -39,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nihal-Reddy-K/DSA/tree/master/0037-sudoku-solver) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Nihal-Reddy-K/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
