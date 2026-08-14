@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nihal-Reddy-K/DSA/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nihal-Reddy-K/DSA/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nihal-Reddy-K/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nihal-Reddy-K/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nihal-Reddy-K/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Matrix
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nihal-Reddy-K/DSA/tree/master/0020-valid-parentheses) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
