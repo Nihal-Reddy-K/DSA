@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nihal-Reddy-K/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nihal-Reddy-K/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nihal-Reddy-K/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Nihal-Reddy-K/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Nihal-Reddy-K/DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Nihal-Reddy-K/DSA/tree/master/0344-reverse-string) |
 | [1861-rotating-the-box](https://github.com/Nihal-Reddy-K/DSA/tree/master/1861-rotating-the-box) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nihal-Reddy-K/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nihal-Reddy-K/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nihal-Reddy-K/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Nihal-Reddy-K/DSA/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nihal-Reddy-K/DSA/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/Nihal-Reddy-K/DSA/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/Nihal-Reddy-K/DSA/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nihal-Reddy-K/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Nihal-Reddy-K/DSA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
