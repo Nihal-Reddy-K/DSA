@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nihal-Reddy-K/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Nihal-Reddy-K/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Nihal-Reddy-K/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nihal-Reddy-K/DSA/tree/master/0344-reverse-string) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nihal-Reddy-K/DSA/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Nihal-Reddy-K/DSA/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/Nihal-Reddy-K/DSA/tree/master/0234-palindrome-linked-list) |
 | [0901-online-stock-span](https://github.com/Nihal-Reddy-K/DSA/tree/master/0901-online-stock-span) |
 ## Design
