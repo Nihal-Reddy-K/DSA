@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nihal-Reddy-K/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Nihal-Reddy-K/DSA/tree/master/0394-decode-string) |
+| [0796-rotate-string](https://github.com/Nihal-Reddy-K/DSA/tree/master/0796-rotate-string) |
 ## Array
 |  |
 | ------- |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Nihal-Reddy-K/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Nihal-Reddy-K/DSA/tree/master/0394-decode-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Nihal-Reddy-K/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
