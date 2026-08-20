@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Nihal-Reddy-K/DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Nihal-Reddy-K/DSA/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Nihal-Reddy-K/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Nihal-Reddy-K/DSA/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nihal-Reddy-K/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Nihal-Reddy-K/DSA/tree/master/0217-contains-duplicate) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nihal-Reddy-K/DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Nihal-Reddy-K/DSA/tree/master/0048-rotate-image) |
 | [1861-rotating-the-box](https://github.com/Nihal-Reddy-K/DSA/tree/master/1861-rotating-the-box) |
 ## Dancing Links
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nihal-Reddy-K/DSA/tree/master/0048-rotate-image) |
 | [0932-beautiful-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0932-beautiful-array) |
 ## Divide and Conquer
 |  |
