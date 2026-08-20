@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Nihal-Reddy-K/DSA/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Nihal-Reddy-K/DSA/tree/master/0051-n-queens) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nihal-Reddy-K/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/Nihal-Reddy-K/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Nihal-Reddy-K/DSA/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Nihal-Reddy-K/DSA/tree/master/0704-binary-search) |
 | [0896-monotonic-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0896-monotonic-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Nihal-Reddy-K/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nihal-Reddy-K/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Nihal-Reddy-K/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Nihal-Reddy-K/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Nihal-Reddy-K/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
