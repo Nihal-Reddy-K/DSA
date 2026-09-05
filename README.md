@@ -208,16 +208,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0965-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0965-univalued-binary-tree) |
 ## Binary Lifting
@@ -231,5 +234,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0965-univalued-binary-tree) |
 <!---LeetCode Topics End-->
