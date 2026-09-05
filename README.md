@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Nihal-Reddy-K/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
+| [0652-find-duplicate-subtrees](https://github.com/Nihal-Reddy-K/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Matrix
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Nihal-Reddy-K/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0965-univalued-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Nihal-Reddy-K/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Nihal-Reddy-K/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0965-univalued-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Nihal-Reddy-K/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
@@ -224,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Nihal-Reddy-K/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [0965-univalued-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Nihal-Reddy-K/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Lifting
