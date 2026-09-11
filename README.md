@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Nihal-Reddy-K/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0938-range-sum-of-bst](https://github.com/Nihal-Reddy-K/DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Nihal-Reddy-K/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Depth-First Search
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Nihal-Reddy-K/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0938-range-sum-of-bst](https://github.com/Nihal-Reddy-K/DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Nihal-Reddy-K/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Tree
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/Nihal-Reddy-K/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0938-range-sum-of-bst](https://github.com/Nihal-Reddy-K/DSA/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0965-univalued-binary-tree) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/Nihal-Reddy-K/DSA/tree/master/1325-delete-leaves-with-a-given-value) |
 ## Binary Lifting
@@ -251,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nihal-Reddy-K/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0938-range-sum-of-bst](https://github.com/Nihal-Reddy-K/DSA/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
