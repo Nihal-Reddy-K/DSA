@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nihal-Reddy-K/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Nihal-Reddy-K/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nihal-Reddy-K/DSA/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Nihal-Reddy-K/DSA/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nihal-Reddy-K/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Nihal-Reddy-K/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Nihal-Reddy-K/DSA/tree/master/0239-sliding-window-maximum) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Nihal-Reddy-K/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Nihal-Reddy-K/DSA/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/Nihal-Reddy-K/DSA/tree/master/0064-minimum-path-sum) |
 | [1861-rotating-the-box](https://github.com/Nihal-Reddy-K/DSA/tree/master/1861-rotating-the-box) |
 ## Dancing Links
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nihal-Reddy-K/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Nihal-Reddy-K/DSA/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/Nihal-Reddy-K/DSA/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nihal-Reddy-K/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nihal-Reddy-K/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nihal-Reddy-K/DSA/tree/master/0646-maximum-length-of-pair-chain) |
