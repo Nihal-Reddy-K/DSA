@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/Nihal-Reddy-K/DSA/tree/master/1861-rotating-the-box) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Nihal-Reddy-K/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Nihal-Reddy-K/DSA/tree/master/0011-container-with-most-water) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nihal-Reddy-K/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Nihal-Reddy-K/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/Nihal-Reddy-K/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/Nihal-Reddy-K/DSA/tree/master/0239-sliding-window-maximum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Nihal-Reddy-K/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/Nihal-Reddy-K/DSA/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Merge Sort
 |  |
 | ------- |
