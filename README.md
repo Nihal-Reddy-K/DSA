@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nihal-Reddy-K/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Nihal-Reddy-K/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Nihal-Reddy-K/DSA/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nihal-Reddy-K/DSA/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nihal-Reddy-K/DSA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Nihal-Reddy-K/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0652-find-duplicate-subtrees](https://github.com/Nihal-Reddy-K/DSA/tree/master/0652-find-duplicate-subtrees) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Nihal-Reddy-K/DSA/tree/master/0704-binary-search) |
 ## Counting
 |  |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nihal-Reddy-K/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Nihal-Reddy-K/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0268-missing-number) |
 | [0932-beautiful-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0932-beautiful-array) |
 ## Divide and Conquer
 |  |
@@ -184,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nihal-Reddy-K/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0268-missing-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nihal-Reddy-K/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 ## Dynamic Programming
 |  |
@@ -291,4 +296,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Nihal-Reddy-K/DSA/tree/master/0146-lru-cache) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
