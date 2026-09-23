@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Nihal-Reddy-K/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nihal-Reddy-K/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Nihal-Reddy-K/DSA/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Nihal-Reddy-K/DSA/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nihal-Reddy-K/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Nihal-Reddy-K/DSA/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/Nihal-Reddy-K/DSA/tree/master/0239-sliding-window-maximum) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nihal-Reddy-K/DSA/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Nihal-Reddy-K/DSA/tree/master/0066-plus-one) |
 | [0202-happy-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0202-happy-number) |
 | [0932-beautiful-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0932-beautiful-array) |
 ## Divide and Conquer
