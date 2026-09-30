@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Nihal-Reddy-K/DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Nihal-Reddy-K/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Nihal-Reddy-K/DSA/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/Nihal-Reddy-K/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Nihal-Reddy-K/DSA/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Nihal-Reddy-K/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Nihal-Reddy-K/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Nihal-Reddy-K/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Nihal-Reddy-K/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Nihal-Reddy-K/DSA/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Nihal-Reddy-K/DSA/tree/master/0064-minimum-path-sum) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Nihal-Reddy-K/DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Nihal-Reddy-K/DSA/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Nihal-Reddy-K/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Nihal-Reddy-K/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Nihal-Reddy-K/DSA/tree/master/0146-lru-cache) |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Nihal-Reddy-K/DSA/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Nihal-Reddy-K/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0268-missing-number) |
