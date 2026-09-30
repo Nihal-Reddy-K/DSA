@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Nihal-Reddy-K/DSA/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/Nihal-Reddy-K/DSA/tree/master/0394-decode-string) |
+| [0720-longest-word-in-dictionary](https://github.com/Nihal-Reddy-K/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0796-rotate-string](https://github.com/Nihal-Reddy-K/DSA/tree/master/0796-rotate-string) |
 ## Array
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nihal-Reddy-K/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/Nihal-Reddy-K/DSA/tree/master/0704-binary-search) |
+| [0720-longest-word-in-dictionary](https://github.com/Nihal-Reddy-K/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [0896-monotonic-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0896-monotonic-array) |
 | [0932-beautiful-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0932-beautiful-array) |
 | [1861-rotating-the-box](https://github.com/Nihal-Reddy-K/DSA/tree/master/1861-rotating-the-box) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0652-find-duplicate-subtrees](https://github.com/Nihal-Reddy-K/DSA/tree/master/0652-find-duplicate-subtrees) |
+| [0720-longest-word-in-dictionary](https://github.com/Nihal-Reddy-K/DSA/tree/master/0720-longest-word-in-dictionary) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2190-most-frequent-number-following-key-in-an-array](https://github.com/Nihal-Reddy-K/DSA/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Matrix
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nihal-Reddy-K/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0268-missing-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Nihal-Reddy-K/DSA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0720-longest-word-in-dictionary](https://github.com/Nihal-Reddy-K/DSA/tree/master/0720-longest-word-in-dictionary) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -306,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nihal-Reddy-K/DSA/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0720-longest-word-in-dictionary](https://github.com/Nihal-Reddy-K/DSA/tree/master/0720-longest-word-in-dictionary) |
 <!---LeetCode Topics End-->
