@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Nihal-Reddy-K/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0210-course-schedule-ii](https://github.com/Nihal-Reddy-K/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Nihal-Reddy-K/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/Nihal-Reddy-K/DSA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0226-invert-binary-tree) |
 | [0965-univalued-binary-tree](https://github.com/Nihal-Reddy-K/DSA/tree/master/0965-univalued-binary-tree) |
 ## DP on Trees
@@ -314,4 +316,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0720-longest-word-in-dictionary](https://github.com/Nihal-Reddy-K/DSA/tree/master/0720-longest-word-in-dictionary) |
+## Graph Theory
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Nihal-Reddy-K/DSA/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/Nihal-Reddy-K/DSA/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
